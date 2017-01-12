@@ -1,0 +1,17 @@
+/*... add the following CSS in your child theme CSS file or in Divi Theme Options Custom CSS box...*/
+/*... you can further style this to your needs.....*/
+
+
+/*..the following CSS will make the menu items stand horizontally....*/
+
+.shop-menu-class ul li {
+    display: inline-block;
+    padding: 0 20px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #222;
+    background: #bd480f;
+}
+.shop-menu-class ul li a{
+color: #fff;
+}
